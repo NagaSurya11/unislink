@@ -64,3 +64,4 @@ if __name__ == '__main__':
         print(f'Your Output: {output}')
         print(f'Expected Output: {result}')
         print(f'Passed: {result == output}')
+        print('-----------------------------------------------')
